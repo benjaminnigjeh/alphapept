@@ -59,7 +59,7 @@ and might require additional work to set up (see detailed instructions
 below). To read Thermo files, we use Mono, which can be used on Mac and
 Linux. For Bruker files, we can use Linux but not yet macOS.
 
-## Python Installation Instructions
+## Python Installation Instructions (I changed it here)
 
 ### Requirements
 
