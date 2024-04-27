@@ -331,6 +331,7 @@ HOME = os.path.expanduser("~")
 AP_PATH = os.path.join(HOME, ".alphapept")
 DEFAULT_SETTINGS_PATH = os.path.join(AP_PATH, 'default_settings.yaml')
 
+DEFAULT_SETTINGS_PATH = "D:/alphapept/default_settings.yaml"
 skip = False
 
 previous_md5 = None
